@@ -1,5 +1,5 @@
 # Covid-19_Analysis
-Analysis of covid-19 data using python library pandas, matplotlib, beautiful soap, request, and seaborn. 
+Analysis of covid-19 data using python library pandas, matplotlib, beautiful soap, request, seaborn and plotly(interactive plots). 
 
 # Notification system 
 Build-ed a real time notification system that notifies latest updates regarding CORONA virus by Scrapping and cleaning the 
