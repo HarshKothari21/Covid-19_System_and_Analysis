@@ -8,5 +8,6 @@ data from "https://www.mohfw.gov.in/" using Beautifulsoup
 # Let me show you some of my plots..
 ![](temp/0.png)
 ![](temp/newplot1.png)
+![](temp/01.png)
 ![](temp/india.png)
 ![](temp/newplot.png)
